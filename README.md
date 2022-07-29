@@ -155,6 +155,13 @@ We would endlessly like to thank the following contributors
             <br />
             <sub><b>Mambo Bryan</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/EricRootLee">
+            <img src="https://avatars.githubusercontent.com/u/44473888?v=4" width="100;" alt="EricRootLee"/>
+            <br />
+            <sub><b>Eric Muli</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
